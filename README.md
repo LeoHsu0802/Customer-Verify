@@ -5,4 +5,8 @@ Customer Verify(開戶客戶違約查詢)
 
 ![image](EXCEL1.png)
 
-2.執行程式
+
+2.程式會創建一個客戶身分證的資料夾，並將查詢結果的截圖存入
+
+
+![image](PIC1.png)
